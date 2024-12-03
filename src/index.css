@@ -25,6 +25,7 @@ body{
 /* boards */
 .boardContainerHeight {
   height: 60vh !important;
+  padding-bottom: 1rem;
 }
 
 
